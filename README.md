@@ -1,2 +1,2 @@
 # Stud-Report-Mng-Sys
-A student report system, for educational purposes, made with C++.
+A student report management system, for educational purposes, made with C++.
